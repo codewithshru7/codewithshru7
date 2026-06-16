@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Shruti+👋;CS-AI+Student+at+IGDTUW;Building+Projects+One+Step+at+a+Time;Learning+AI,+ML+%26+Blockchain;Dream+Big.+Build+Bigger.;Bienvenue!+Learning+French+Too+🇫🇷">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Shruti+%F0%9F%91%8B;CS-AI+Student+at+IGDTUW;Building+Projects+One+Step+at+a+Time;Learning+AI%2C+ML+%26+Blockchain;Dream+Big.+Build+Bigger.;Bienvenue!+Learning+French+Too+%F0%9F%87%AB%F0%9F%87%B7">
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF69B4&text=CODEWITHSHRU&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
-
-### AI • ML • Blockchain • Open Source
 
 </div>
 
@@ -20,12 +18,12 @@
 > ROLE     : CS-AI Student (2025–2029)
 > COLLEGE  : IGDTUW
 > MODE     : LEARN • BUILD • REPEAT
-> TARGET   : Learning, Building & Growing Every Day
+> TARGET   : Becoming Better Than Yesterday
 ```
 
 ---
 
-## 💖 About Me
+## ** About Me
 
 🌸 **Name:** Shruti
 
@@ -48,14 +46,6 @@
 ✨ **Mindset**
 
 > Growth > Perfection
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ2cWZ5eTV4aGx0cDBuYXF1M3R6MWN5YmNnZnh5MzV0MjF4YjBhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450">
-
-</div>
 
 ---
 
@@ -102,7 +92,7 @@ French      ███░░░░░░░░░░░ 20%
 
 ### ✨ Quote
 
-> Dream Big. Build Bigger.
+> "Dream Big. Build Bigger."
 
 </div>
 
@@ -117,4 +107,5 @@ French      ███░░░░░░░░░░░ 20%
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF69B4&section=footer"/>
+
 
